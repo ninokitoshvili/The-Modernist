@@ -116,3 +116,5 @@ function slide(wrapper, items, prev, next) {
 }
 
 slide(slider, sliderItems, prev, next);
+
+window.onload=console.log('sds')
